@@ -1,2 +1,8 @@
 # syshook
-syscall hook
+# syscall hook
+
+# usage
+make -Dmyexecve
+make test
+
+
